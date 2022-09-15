@@ -29,7 +29,8 @@ function Profile() {
               {
                 display:"flex",
                 justifyContent:"space-between",
-                width:"110%"
+                width:"110%",
+                
               }
             }
             >
